@@ -1,0 +1,2 @@
+# Netflix-Analysis-By-Python-With-Summary
+Netflix Data Analysis project using Python.🔍 ✅ Content Boom – Netflix’s content production surged 300%+ after 2015 📈 ✅ Popular Genres – Drama &amp; Documentaries dominate the platform  ✅ Top Countries – The USA leads in content creation, followed by India &amp; the UK 🌍 ✔ Pandas – Data Cleaning &amp; Manipulation ✔ Matplotlib &amp; Seaborn – Data Visualization.
